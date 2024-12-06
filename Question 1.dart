@@ -1,9 +1,8 @@
 // Q.1: Create two integer variables length and breadth and assign values.
 
 void main() {
-
   // creating variables
-  int length = 4;
+  int length = 3;
   int breadth = 6;
 
 // checking its a square or rectangles
